@@ -20,7 +20,7 @@ setuptools.setup(
     version=get_version('short'),
     author='cyverse',
     author_email='atmodevs@gmail.com',
-    description="Logging for Atmosphere, modeled after jmatt's threepio.",
+    description="Logging for Atmosphere, modeled after threepio by jmatt.",
     long_description=long_description,
     license="The University of Arizona",
     url="https://github.com/cyverse/atmo_logger",
